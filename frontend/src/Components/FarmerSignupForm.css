@@ -1,0 +1,36 @@
+.farmer-form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* FULL height of viewport */
+    background-color: #eefbe9;
+    background-image: url("https://www.nutritionfact.in/wp-content/uploads/2023/06/Organic-Farming.jpg");
+  }
+  
+  
+  .farmer-form {
+    background: #f9f9f9;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .farmer-form input,
+  .farmer-form textarea {
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  .farmer-form button {
+    background-color: #4caf50;
+    color: white;
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  

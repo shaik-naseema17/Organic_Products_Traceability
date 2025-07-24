@@ -1,0 +1,52 @@
+.showveg .vegetables-container {
+  margin-top: 80px; /* Adjust to avoid hiding under navbar */
+  padding: 20px;
+  text-align: center;
+}
+
+.showveg .table-box {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 900px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.showveg table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.showveg th,
+.showveg td {
+  padding: 12px;
+  border-bottom: 1px solid #ccc;
+  text-align: left;
+}
+
+.showveg input[type="text"] {
+  padding: 6px;
+  margin-right: 10px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  width: 60%;
+}
+
+.showveg button {
+  padding: 6px 12px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.showveg button:hover {
+  background-color: #218838;
+}
+
+.showveg h2 {
+  margin-bottom: 20px;
+}

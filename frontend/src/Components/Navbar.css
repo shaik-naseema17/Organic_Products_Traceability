@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar {
+    background-color: #8b0000; /* Dark Red */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 15px; /* Reduced padding */
+    height: 50px; /* Reduced height */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-heading {
+    font-size: 20px; /* Reduced font size */
+    font-weight: bold;
+  }
+  
+  .navbar-links {
+    display: flex;
+    gap: 8px;
+    margin-right: 40px; /* Reduced spacing */
+  }
+  
+  .navbar-btn {
+    background-color: #ffcc00; /* Gold */
+    color: #8b0000; /* Dark Red */
+    border: none;
+    padding: 6px 10px; /* Smaller buttons */
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+   
+  }
+  
+  .navbar-btn:hover {
+    background-color: #ffaa00;
+  }
+  
