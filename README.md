@@ -90,6 +90,9 @@ Each block includes:
 ### 🔍 Scanning and Trace View  
 ![QR Scan Result](https://github.com/user-attachments/assets/44a59160-9db6-43be-97a1-ccf393574bea)
 
+### 🧱 Blockchain Viewer  
+![Blockchain Viewer](https://github.com/user-attachments/assets/83067d19-aad9-4afe-96aa-c52383c4aab8)
+
 ---
 
 ## 🔮 Future Scope
